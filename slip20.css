@@ -1,0 +1,28 @@
+
+    h1{
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+       font-style: Arial, Helvetica, sans-serif;
+       color: Green;
+       font-size:60px;
+    }
+    Body{
+       background-color: Pink;
+    }
+   .A{
+       font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       font-style:italic;
+       color:aqua;
+       font-size:45px;
+   }
+   .B{
+       font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       font-style:italic;
+       color:blue;
+       font-size: 40px;
+   }
+   .C{
+       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-style:italic;
+       color:brown;
+       font-size:45px;
+   }
